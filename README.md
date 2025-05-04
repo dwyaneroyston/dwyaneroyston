@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Dwyane Royston<br>I am a Flutter developer with a strong interest in building efficient, user-friendly mobile applications. My focus is on clean UI design, performance optimization, and seamless user experiences. I work primarily with Flutter and Dart, and I am currently expanding my knowledge in Firebase integration and REST API development.<br><br>I am always looking to learn new technologies, contribute to meaningful projects, and grow as a software developer. Feel free to explore my repositories to see my work.
 
 
