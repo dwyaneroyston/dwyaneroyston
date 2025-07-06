@@ -1,12 +1,11 @@
 #  About Me:
-Hi, I'm Dwyane Royston<br>
-I am a passionate Android developer with a strong foundation in building high-performance, native mobile applications using Kotlin and Jetpack Compose. My primary focus is on creating intuitive user interfaces, ensuring smooth performance, and leveraging modern Android architecture components like Room DB and LiveData.
+Hi, I'm Dwyane Royston — a dedicated Android developer specializing in Kotlin and Jetpack Compose. I focus on crafting high-performance, intuitive mobile applications using modern Android architecture components like Room and LiveData.
 
-In addition to native development, I am also skilled in Flutter and Dart, enabling me to build cross-platform apps when needed. I enjoy working on both platforms and believe my versatility helps in adapting to diverse project needs and team environments.
+I'm also proficient in Flutter and Dart, enabling me to deliver cross-platform solutions when needed. This dual expertise allows me to adapt to diverse project requirements and tech stacks.
 
-Currently, I’m exploring advanced topics like Firebase integration, background services, and REST API communication across both Android and Flutter. I'm always eager to learn, contribute to meaningful projects, and grow as a mobile developer.
+Currently, I'm deepening my knowledge in Firebase, background services, and REST API integration. I'm passionate about clean architecture, seamless user experiences, and continuous learning.
 
-Feel free to explore my repositories to see my work.
+Explore my repositories to see my work in action.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/royystonnnn)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dwyane-royston)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dwyaneroyston1105@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dwyaneroyston.github.io/)
